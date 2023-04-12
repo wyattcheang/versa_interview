@@ -7,3 +7,22 @@ There was a tale when 2 prime numbers collided and a big bang happened. Scientis
 ## Solution
 Create a script to iterate through 1 to 100 and replace any number divisible by 3 with the word BIG number divisible by 5 with the word BANG. If the number is divisible by 3 and 5, replace it with BIG BANG. Generate the array and output to ‘output.json’ file.
 
+## Step to execute the code
+
+### Ensure Git and Python 3.9.1 or above are both installed in your computer.
+
+1. Clone the repository
+
+        git https://github.com/wyattcheang/versa_interview.git
+
+2. Move to the directory
+
+        cd versa_interview.git
+
+3. Run the code
+
+        python main.py
+
+4. Open the json file
+
+        open output.json
