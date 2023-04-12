@@ -19,9 +19,14 @@ Create a script to iterate through 1 to 100 and replace any number divisible by 
 
         cd versa_interview
 
-3. Run the code
+3. Run the code 
+   1. Window command
 
-        python main.py
+           python3 main.py
+   2. Mac command
+
+          python3 main.py
+
 
 4. Open the json file
 
