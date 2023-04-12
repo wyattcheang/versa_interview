@@ -22,7 +22,7 @@ Create a script to iterate through 1 to 100 and replace any number divisible by 
 3. Run the code 
    1. Window command
 
-           python3 main.py
+           py main.py
    2. Mac command
 
           python3 main.py
