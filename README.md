@@ -13,7 +13,7 @@ Create a script to iterate through 1 to 100 and replace any number divisible by 
 
 1. Clone the repository
 
-        git https://github.com/wyattcheang/versa_interview.git
+        git clone https://github.com/wyattcheang/versa_interview.git
 
 2. Move to the directory
 
