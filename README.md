@@ -17,7 +17,7 @@ Create a script to iterate through 1 to 100 and replace any number divisible by 
 
 2. Move to the directory
 
-        cd versa_interview.git
+        cd versa_interview
 
 3. Run the code
 
