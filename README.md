@@ -47,3 +47,7 @@ Create a script to iterate through 1 to 100 and replace any number divisible by 
 4. Open the json file 
 
         start output.json
+
+## Review Code
+### For Mac/Linux
+      open main.py
