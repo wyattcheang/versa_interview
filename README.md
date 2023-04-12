@@ -24,7 +24,6 @@ Create a script to iterate through 1 to 100 and replace any number divisible by 
        
          python3 main.py
 
-
 4. Open the json file
 
         open output.json
